@@ -1,0 +1,57 @@
+@font-face{
+    font-family:neon;
+    src: url(../fonts/neon.otf);
+
+}
+
+body{
+    /* background-image: linear-gradient(-90deg, gray, #181818); */
+    background:black;
+    font-family:neon;
+    color:#c4fae6;
+
+}
+
+div{
+    margin:20%;
+
+}
+
+h1{
+    text-align: center;
+    font-family:neon;
+
+    font-size:80px;
+    color:#c4fae6;
+
+    font-weight:300;
+    padding:10px 0 0 0 ;
+    margin:0 auto;
+
+    text-shadow:
+
+    .1vw 0vw   1vw #39fcb4, .2vw 0vw   1vw #39fcb4, .4vw 0vw   5vw #39fcb4,
+
+    .1vw 0vw  10vw #39fcb4, .2vw 0vw  30vw #39fcb4, .4vw 0vw  10vw #39fcb4;
+}
+
+a{
+    text-decoration:none;
+    color:#c4fae6;
+}
+
+a:hover{
+    color:#ffd8d8;
+    text-shadow:
+
+   .1vw 0vw   1vw #e50b0b, .2vw 0vw   1vw #e50b0b, .4vw 0vw   5vw #e50b0b,
+   .1vw 0vw   5vw #e50b0b, .2vw 0vw  20vw #e50b0b, .4vw 0vw  10vw #e50b0b,
+   .1vw 0vw  10vw #e50b0b, .2vw 0vw  30vw #e50b0b, .4vw 0vw  10vw #e50b0b;
+
+    transition:0.2;
+}
+
+p{
+
+}
+
